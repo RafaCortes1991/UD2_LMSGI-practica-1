@@ -1,0 +1,40 @@
+body 
+{
+   text-align: center;
+   background-color:#9628;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+   overflow: hidden;
+   font-family: 'Times New Roman';
+}
+
+h1 
+{
+    background-color: silver;
+    color: white;
+    border-left: red;
+}
+
+img 
+{
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    box-shadow: 6px 6px 18px black;
+}
+
+ul 
+{
+    list-style-type: none;
+    padding: 0;
+}
+
+li 
+{
+    display: inline;
+    margin: 20px;
+    border: 2px solid black;
+}
+
